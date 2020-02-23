@@ -1,6 +1,6 @@
 app:
   datasource:
-    jdbc-url: postgres://cjvyclngetcjpt:8baf48366576f61ba584ae396a0198c96971a2efb93a3778d8881e5eaec08155@ec2-34-200-116-132.compute-1.amazonaws.com:5432/d6nfo5ltillvh2
+    jdbc-uri: postgres://cjvyclngetcjpt:8baf48366576f61ba584ae396a0198c96971a2efb93a3778d8881e5eaec08155@ec2-34-200-116-132.compute-1.amazonaws.com:5432/d6nfo5ltillvh2
     username: cjvyclngetcjpt
     password: 8baf48366576f61ba584ae396a0198c96971a2efb93a3778d8881e5eaec08155
 
